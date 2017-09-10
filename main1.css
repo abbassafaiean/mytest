@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#sec1 {
+border: 1px solid red;
+	height: auto;
+	width: 170px;
+	padding: 10px;
+	float: right;
+	margin-left: 0px;
+}
+#sec2{
+	float:right;
+	border: 1px solid red;
+margin left: 5px;
+	margin-top: 0px;
+	padding: 10px;
+	width: 170px;
+	height: 100px;
+	margin-top: 5px;
+	margin-right: 10px;
+	
+	
+}
